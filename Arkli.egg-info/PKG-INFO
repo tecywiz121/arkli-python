@@ -1,0 +1,17 @@
+Metadata-Version: 1.0
+Name: Arkli
+Version: 0.0.1
+Summary: Addin-Social api and signature generator
+Home-page: https://github.com/tecywiz121/arkli-python
+Author: Sam Wilson
+Author-email: sam@arkli.com
+License: LICENSE.txt
+Description: =====
+        Arkli
+        =====
+        
+        The Arkli package provides an API for interacting with the addin-social web
+        service.  The package also provides a function to generate signatures for use
+        with the addin-social javascript widgets.
+        
+Platform: UNKNOWN
